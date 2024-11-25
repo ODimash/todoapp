@@ -1,11 +1,14 @@
 # TODO Application with JavaFX and Maven
 -----
-Osmanov Dinmukhamed
+Osmanov Dinmukhamed\
 Computing technology and software
 ----
 ## Project Overview
 
 This project involves creating a simple TODO application using JavaFX and Maven for build automation. The application allows users to add, delete, and mark tasks as completed. The project structure follows the MVC (Model-View-Controller) pattern and demonstrates the use of classes and inheritance.
+
+![image](https://github.com/user-attachments/assets/c6cc7105-597e-42f2-b71f-c03fca153ddf)
+
 
 ## Project Structure
 
