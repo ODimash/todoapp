@@ -1,0 +1,6 @@
+odimash\todoapp\MainApp.class
+odimash\todoapp\model\Task.class
+odimash\todoapp\model\SimpleTask.class
+odimash\todoapp\model\ImportantTask.class
+odimash\todoapp\controller\TaskController.class
+odimash\todoapp\MainAppController.class
